@@ -9,3 +9,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter{
+    background-color: black;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 1rem;
+
+}
+.digit{
+color: white;
+font-weight: bolder;
+font-size: x-large;
+padding: 0,5rem;
+border-color: white;
+}

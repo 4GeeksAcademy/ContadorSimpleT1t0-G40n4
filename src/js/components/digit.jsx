@@ -1,0 +1,1 @@
+export const Digit = ({number})=> <div className="digit">{number}</div>
